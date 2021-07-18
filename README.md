@@ -16,7 +16,7 @@ Features
 
 Preview
 ========
-https://github.nated.xyz/demo/bitcoin-donate-button/
+https://files.nateduhamell.com/test/bitcoin-donate-button-master/sourcecode.html
 
 License
 ==========
