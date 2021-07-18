@@ -1,9 +1,11 @@
 Bitcoin Donate Button
 ====================================
-
 Accept bitcoin donations with a simple click of a button! I enjoy making software so much!
-Please, if you see any issues make them known! If you especially love my software you can
-donate at: https://gitub.nated.xyz/donate/
+Please, if you see any issues make them known! 
+
+Documentation
+==============
+https://nateduhamell.com/github-project-bitcoin-donate-button/
 
 Features
 ===============
